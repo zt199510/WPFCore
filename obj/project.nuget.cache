@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJnswX+qqf19p083oLtu7tWsKgWl8uk2fxZhdIWRra6OhlR24c2mN7zbfGdRXPBPUZeup0IBTfTc8GtDrbOo2A==",
+  "success": true,
+  "projectFilePath": "D:\\App\\WPFCore\\WPFCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\autofac\\5.2.0\\autofac.5.2.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mvvmlight\\5.4.1.1\\mvvmlight.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
